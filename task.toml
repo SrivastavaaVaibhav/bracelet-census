@@ -1,0 +1,14 @@
+version = "1.0"
+
+[metadata]
+name = "bracelet-census"
+category = "mathematics"
+difficulty = "hard"
+tags = ["combinatorics", "group-actions", "burnside", "transfer-matrix", "exact-arithmetic"]
+author = "Vaibhav Srivastava"
+
+[agent]
+timeout_sec = 3600
+
+[verifier]
+timeout_sec = 300
